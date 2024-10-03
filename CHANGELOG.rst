@@ -2,6 +2,11 @@
 Changelog for package laser_geometry
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Added common linters (`#96 <https://github.com/ros-perception/laser_geometry/issues/96>`_)
+* Contributors: Alejandro Hernández Cordero
+
 2.8.0 (2024-04-26)
 ------------------
 
